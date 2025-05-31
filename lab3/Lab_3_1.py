@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Apr 12 13:56:59 2025
 
-@author: rezuqq
-"""
 import numpy as np
 import random
 import torch
